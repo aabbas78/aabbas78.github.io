@@ -54,3 +54,54 @@ color: #fff;
 font-weight: bold;
 letter-spacing: 1px;
 }
+#showcase
+{
+    min-height: 400px;
+    background: url("../images/IMG_7708.jpg") no-repeat center;
+    background-size: cover;
+}
+#newsletter
+{
+    padding: 15px;
+    color: #ffff;
+    background: #353637;
+}
+#newsletter h1
+{
+    float: left;
+}
+#newsletter form
+{
+    float: right;
+    margin-top: 15px;
+}
+#newsletter input[type="email"]
+{
+    padding: 4px;
+    height: 25px;
+    width: 250px;
+}
+.button{
+    height: 30px ;
+    background: #ccc;
+    padding-left: 20px;
+    padding-right: 30px;
+    color: #353636;
+}
+#boxes .box
+{
+    float: left;
+    text-align: center;
+    width: 30px;
+    padding: 10px;
+}
+footer
+{
+padding: 20px;
+margin-top: 20px;
+color: #fff;
+background-color: #32a062;
+text-align: center;
+font-weight: bold;
+font-size: 20px;
+}
